@@ -1,4 +1,4 @@
-![alt text](https://c2.staticflickr.com/4/3028/3043243774_c72dc125e1.jpg)
+![alt text](https://c2.staticflickr.com/4/3028/3043243774_c72dc125e1_z.jpg)
 
 # Semantic Analysis of Canadian Regulations
 
