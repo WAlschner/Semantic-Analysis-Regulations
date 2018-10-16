@@ -36,5 +36,9 @@ We are grateful for the hard work and dedication of our student researchers: Ale
 **4. Age:** What is the average age of regulations?  
 -	We calculate how much time has passed since a regulation was last amended, but also look for technology-related outdatedness specifically. We find, for instance, that some regulations specify permitted means of communications, which can lead to the omission of newer forms of communciation such as EMail in older regulations that have not yet been recently amended.  
 
+## Interactive Website
+
+We have a created an interactive website that allows you to visualize and compare results. It is available at: https://regulations.herokuapp.com/.
+
 ## Contact
 Wolfgang Alschner (wolfgang.alschner@uottawa.ca)
